@@ -1,1 +1,1 @@
-# this example is part of my blog on MacRuby and Rubymotion auto layout!
+#[this example is part of my blog on MacRuby and Rubymotion auto layout!](http://seanlilmateus.github.com/blog/2012/09/23/macruby-slash-rubymotion-auto-layout-basics/)
