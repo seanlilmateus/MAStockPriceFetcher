@@ -1,0 +1,1 @@
+# this example is part of my blog on MacRuby and Rubymotion auto layout!
